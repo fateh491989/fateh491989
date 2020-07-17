@@ -39,5 +39,6 @@ Conceptualize, develop, and test native Android applications, including UI, core
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
-
+</br>
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/singhfateh)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
