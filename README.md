@@ -8,7 +8,22 @@ I build mobile applications for college students, startups, and companies.
 - 🤔 I’m looking for help with creating UI for apps.
 
 
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][webdevplaylist]
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][cssplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+</br>
+
 ### EXPERIENCE
+
 #### Yorex Infotech,  Ludhiana - <span style="color:blue">*Intern* </span>
 <span style="color:blue">*June 2019 - August 2019* </span>\
 Built Cross Platform apps with back-end API integration to improve customer experience.
@@ -16,30 +31,23 @@ Built Cross Platform apps with back-end API integration to improve customer expe
 <span style="color:blue">*September 2019 - November 2019* </span>\
 Conceptualize, develop, and test native Android applications, including UI, core functionality, and third-party SDKs\
 
+### Connect with me
+
+[<img align="left" alt="Fateh Singh | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Fateh Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Fateh Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fateh Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fateh491989&show_icons=true&hide_border=true" />
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
 </br>
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/singhfateh)
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+[whatsapp]: https://wa.link/lmjaq2
+[twitter]: https://twitter.com/FatehSi83125209
+[instagram]: https://instagram.com/theflutterclub
+[linkedin]: https://linkedin.com/fateh491989
