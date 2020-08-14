@@ -39,8 +39,8 @@ Conceptualize, develop, and test native Android applications, including UI, core
 [<img align="left" alt="Fateh Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </br>
+</br>
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fateh491989&show_icons=true&hide_border=true&theme=radical" />
-
 </br>
 
 [whatsapp]: https://wa.link/lmjaq2
