@@ -1,6 +1,5 @@
-### ****Under progress****
 ### Hi there 👋
-I am **Fateh Singh** mobile app developer. I have experience of 2 years as a flutter developer. 
+I am **Fateh Singh**, mobile app developer. I have experience of 2 years as a flutter developer. 
 I build mobile applications for college students, startups, and companies.
 
 - 🔭 I’m currently working on my final year project.
@@ -40,7 +39,7 @@ Conceptualize, develop, and test native Android applications, including UI, core
 [<img align="left" alt="Fateh Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </br>
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fateh491989&show_icons=true&hide_border=true" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fateh491989&show_icons=true&hide_border=true&theme=radical" />
 
 </br>
 
