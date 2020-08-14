@@ -46,4 +46,4 @@ Conceptualize, develop, and test native Android applications, including UI, core
 [whatsapp]: https://wa.link/lmjaq2
 [twitter]: https://twitter.com/FatehSi83125209
 [instagram]: https://instagram.com/theflutterclub
-[linkedin]: https://linkedin.com/fateh491989
+[linkedin]: https://linkedin.com/in/fateh491989
