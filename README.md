@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Fateh Singh**, mobile app developer. I have experience of 2 years as a flutter developer. 
+I am **Fateh Singh**, mobile app developer. I have experience of 5 years as a flutter developer. 
 I build mobile applications for college students, startups, and companies.
 
 - 🔭 I’m currently working on my final year project.
