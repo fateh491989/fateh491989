@@ -1,10 +1,6 @@
 ### Hi there 👋
-I am **Fateh Singh**, mobile app developer. I have experience of 5 years as a flutter developer. 
-I build mobile applications for college students, startups, and companies.
-
-- 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning flutter automatic testing and dev tools for debugging.
-- 🤔 I’m looking for help with creating UI for apps.
+I am **Fateh Singh**, mobile app developer & CEO of appcarpenter.com. I have experience of 5 years as a flutter developer. 
+I build mobile applications for startups, and enterprises.
 
 
 
@@ -21,15 +17,6 @@ I build mobile applications for college students, startups, and companies.
 
 </br>
 
-### EXPERIENCE
-
-#### Yorex Infotech,  Ludhiana - <span style="color:blue">*Intern* </span>
-<span style="color:blue">*June 2019 - August 2019* </span>\
-Built Cross Platform apps with back-end API integration to improve customer experience.
-#### JBL Technologies, Ludhiana - <span style="color:blue">*Software Developer* </span>
-<span style="color:blue">*September 2019 - November 2019* </span>\
-Conceptualize, develop, and test native Android applications, including UI, core functionality, and third-party SDKs\
-</br>
 
 ### Connect with me
 
@@ -44,6 +31,6 @@ Conceptualize, develop, and test native Android applications, including UI, core
 </br>
 
 [whatsapp]: https://wa.link/lmjaq2
-[twitter]: https://twitter.com/FatehSi83125209
-[instagram]: https://instagram.com/theflutterclub
-[linkedin]: https://linkedin.com/in/fateh491989
+[twitter]: https://x.com/appcarpenter
+[instagram]: https://instagram.com/appcarpenter.official
+[linkedin]: https://linkedin.com/in/fateh491989](https://www.linkedin.com/in/fatehsingh-appcarpenter/
