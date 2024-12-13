@@ -33,4 +33,4 @@ I build mobile applications for startups, and enterprises.
 [whatsapp]: https://wa.link/lmjaq2
 [twitter]: https://x.com/appcarpenter
 [instagram]: https://instagram.com/appcarpenter.official
-[linkedin]: https://linkedin.com/in/fateh491989](https://www.linkedin.com/in/fatehsingh-appcarpenter/
+[linkedin]: https://www.linkedin.com/in/fatehsingh-appcarpenter/
